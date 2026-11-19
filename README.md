@@ -3,7 +3,7 @@
 Data Annotation Specialist experienced in creating, reviewing, and quality-checking high-accuracy datasets for computer vision and natural language processing (NLP) models.
 
 ### 📄 Project Samples
-- **[View Annotation Project Summary Deck (PDF)](./annotation-project-samples.pdf)** — Case studies covering labeling workflows, edge-case handling, and QA results.
+- **[View Annotation Project Summary Deck (PDF)](./data-annotation-portfolio.pdf)** — Case studies covering labelling workflows, edge-case handling, and QA results.
 
 ### 🛠 Core Skills & Tools
 - **Annotation Types:** Bounding boxes, polygon segmentation, semantic segmentation, text classification, RLHF / prompt evaluation
