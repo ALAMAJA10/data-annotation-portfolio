@@ -7,5 +7,5 @@ Data Annotation Specialist experienced in creating, reviewing, and quality-check
 
 ### 🛠 Core Skills & Tools
 - **Annotation Types:** Bounding boxes, polygon segmentation, semantic segmentation, text classification, RLHF / prompt evaluation
-- **Tools:** CVAT, Labelbox, Label Studio, V7 Darwin, Scale / Remotasks
+- **Tools:** SRT, Parimango, CVAT, Labelbox, Label Studio
 - **Quality & Standards:** Inter-annotator agreement (IAA), guideline documentation, edge-case auditing
